@@ -12,5 +12,15 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.inputmask
+//= require jquery.inputmask.extensions
 //= require turbolinks
+//= require react
+//= require react_ujs
+//= require components
+//= require bootstrap
+//= require bootstrap-datepicker/core
+//= require bootstrap-datepicker/locales/bootstrap-datepicker.ru.js
+//= require select2
+//= require select2_locale_ru
 //= require_tree .
